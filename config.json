@@ -1,0 +1,8 @@
+{
+    "name": "JavaScript",
+    "ver": "Nico",
+    "logo": "amWiki/images/logo.png",
+    "testing": true,
+    "colour": "#55A7DD",
+    "page-mounts": true
+}
